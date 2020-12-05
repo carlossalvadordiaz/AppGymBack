@@ -1,8 +1,5 @@
-<h1 align="center">Simple 404 error page with Css pseudo-classes, MobileFirst</h1>
+<h1 align="center">Full Stack app with nodeJs, Express, MySql, Angular(same project with front-end name), pug</h1>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -16,10 +13,13 @@
 
 ## Overview
 
-![Settings Window](https://raw.github.com/carlossalvadordiaz/404-not-found/master/images/mobile.png)
 
-![ScreenShot](https://raw.github.com/carlossalvadordiaz/404-not-found/master/images/desktop.png)
 
+| database  | MVC-Node/Express  |
+|:-:|:-:|
+|  <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="250" height="200"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png" width="250" height="200"/></a>  |
+| Angular-CRUD  | routes-request  |
+| <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="250" height="200"/></a>  | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png" width="250" height="200"/></a>  |
 
 
 
@@ -27,9 +27,20 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Css](https://developer.mozilla.org/es/docs/Web/CSS)
-- [Pseudo-classes](#)
-- [Mobile-First](#)
+- NodeJs
+- Express
+- MySQl
+- PhpMyAdmin
+- pug
+- .env
+- Bootstrap
+- BcryptJs
+- Express-validator
+- JsonWebToken
+- Ngrok
+- Cors
+- Nodemon
+- DayJs
 
 ## Contact
 
