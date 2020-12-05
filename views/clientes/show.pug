@@ -1,0 +1,13 @@
+extends ../layout.pug
+
+
+block content
+    if cliente
+        .cliente
+            h3= cliente.nombre + ' ' + cliente.apellidos
+            p Dirección: #{cliente.direccion}
+            p Edad: #{cliente.edad}
+            p Email:  #{cliente.email}
+
+    else
+        p No existe el cliente

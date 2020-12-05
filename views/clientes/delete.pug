@@ -1,0 +1,13 @@
+extends ../layout.pug
+
+
+block content
+
+    if cliente
+        .cliente
+            h3= {cliente.nombre} + "ha sido eliminado"
+
+
+    else
+
+    p El cliente no existe

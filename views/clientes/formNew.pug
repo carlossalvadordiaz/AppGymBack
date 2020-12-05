@@ -1,0 +1,39 @@
+extends ../layout.pug
+
+block content
+
+    h2 Crea un nuevo cliente
+    form(method="POST" action="/clientes/create")
+        .form-group
+            label Nombre
+            input.form-control(type="text", name="nombre")
+        .form-group
+            label Apellidos
+            input.form-control(type="text", name="apellidos")
+        .form-group
+            label Direccion
+            input.form-control(type="text", name="direccion")
+        .form-group
+            label Mail
+            input.form-control(type="text", name="email")
+        .form-group
+            label Edad
+            input.form-control(type="number", name="edad")
+        .form-group
+            label Sexo
+            select.form-control(name="sexo")
+                option(value="m") Masculino
+                option(value="f") Femenino
+        .form-group
+            label Fecha de inscripcion
+            input.form-control(type="text", name="fecha_inscripcion")
+        .form-group
+            label Cuota
+            input.form-control(type="text", name="cuota")
+        .form-group
+            label DNI
+            input.form-control(type="text", name="dni")
+            .form-group
+            label Fecha de nacimiento
+            input.form-control(type="text", name="fecha_nacimiento")
+        input.btn.btn-block.btn-info(type="submit" value="Enviar")

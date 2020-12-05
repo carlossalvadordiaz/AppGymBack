@@ -1,0 +1,87 @@
+//obtener todos los clientes
+get http://localhost:3000/api/clientes
+
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI3LCJjYWR1Y2lkYWQiOjE2MDgwMjM2MjIsImlhdCI6MTYwNzE1OTYyMn0.3yj9oIxp5H9nqyKxTQGFhkyBtMgq4-EY37yiAa1WwCQ
+
+
+###
+//Añadir cliente
+POST http://localhost:3000/api/clientes
+Content-Type: application/json
+{
+    "nombre": "Pruebaapi",
+    "apellidos": "martinez Api",
+    "edad": 23,
+    "email": "martinez@martinez",
+    "dni": "0912309A",
+    "direccion": "calle de la alegria",
+    "sexo": "m",
+    "cuota": 19.90,
+    "fecha_nacimiento": "17/09/20"
+    
+
+}
+###
+//Modificar cliente
+PUT http://localhost:3000/api/clientes
+Content-Type: application/json
+
+{
+    "idCliente": 2,
+    "nombre": "Manolilla",
+    "apellidos": "DelasCuevas",
+    "edad": 32,
+    "email": "mano@lilla.com",
+    "dni": "093213H",
+    "direccion": "calle de las bicicletas",
+    "cuota": 19.90
+}
+
+###
+//Borrar un cliente
+DELETE  http://localhost:3000/api/clientes/10
+
+
+###
+//obtener todos los ejercicios
+
+GET http://localhost:3000/api/ejercicios
+
+###
+//añadir ejercicio
+POST http://localhost:3000/api/ejercicios
+Content-Type: application/json
+
+{
+    "titulo": "Curl Jose Antonio",
+    "duracion": "14:15",
+    "repeticiones": 9
+}
+
+
+###
+//obtener ejercicios de un cliente
+GET http://localhost:3000/api/clientes/11/ejercicios
+
+###
+//registrar usuario
+POST http://localhost:3000/api/usuarios/registro
+Content-Type: application/json
+
+{
+    "username": "User",
+    "password": "User123",
+    "email": "user@user.com"
+}
+
+
+###
+// Logarse con un usuario registrado
+
+POST http://localhost:3000/api/usuarios/login
+Content-Type: application/json
+
+{
+    "password": "User123",
+    "email": "user@user.com"
+}

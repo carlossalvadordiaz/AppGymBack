@@ -1,0 +1,45 @@
+extends ../layout.pug
+
+
+
+block content
+
+    .clientes
+        table.table
+                thead
+                    tr
+                        th indice
+                        
+                        th Nombre
+                        th Apellidos
+                        th Direccion
+                        th Cuota
+                        th Email
+                        th Edad
+                        th Sexo
+                        th fecha de inscripcion
+                        th fecha de nacimiento
+                        th dni
+                        th acciones
+                tbody
+                    each cliente, indice in clientes
+                        tr
+                            td= indice
+                           
+                            td= cliente.nombre
+                            td= cliente.apellidos
+                            td= cliente.direccion
+                            td= cliente.cuota
+                            td= cliente.email
+                            td= cliente.edad
+                            td= cliente.sexo
+                            td= cliente.fecha_inscripcion
+                            td= cliente.fecha_nacimiento
+                            td= cliente.dni
+                            td
+                                a.btn.btn-sm.btn-info(href="/clientes/" + cliente.id) Detalles
+                                a.btn.btn-sm.btn-danger(href="/clientes/borrar/" + cliente.id onclick="return confirm('¿Estas seguro de eliminar el cliente?')") Borrar
+                                a.btn.btn-sm.btn-info(href="/clientes/edita/" + cliente.id) Editar
+                    else
+                        tr
+                            td.text-center(colspan=3) No hay clientes
