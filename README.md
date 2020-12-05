@@ -14,16 +14,25 @@
 ## Overview
 
 
-#### DataBase PhpMyAdmin
-
-<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_top"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="750" height="550"/></a>
 
 
-| database  | MVC-Node/Express  |
+| database  | Angular-CRUD  |
 |:-:|:-:|
-|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png" width="400" height="350"/></a>  |
-| Angular-CRUD  | routes-request  |
-| <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a>  | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png" width="400" height="350"/></a>  |
+|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a></a>
+
+### Code examples
+
+#### Routes-Request (nodeJs, Express)
+
+<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png"/></a>
+
+#### MVC model customer 
+
+<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png"/></a>
+
+#### Api route example
+
+<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/ApiEjercicios.png"/></a>
 
 
 
