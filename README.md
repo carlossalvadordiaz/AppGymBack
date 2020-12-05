@@ -18,21 +18,21 @@
 
 | database  | Angular-CRUD  |
 |:-:|:-:|
-|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a></a>
+|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/listaClientesAngular.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a></a>
 
 ### Code examples
 
 #### Routes-Request (nodeJs, Express)
 
-<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/peticiones-rutas.png" target="_blank"> <img src="/public/images/peticiones-rutas.png"/></a>
 
 #### MVC model customer 
 
-<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/modeloCodigoNode.png" target="_blank"> <img src="/public/images/modeloCodigoNode.png"/></a>
 
 #### Api route example
 
-<a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/ApiEjercicios.png"/></a>
+<a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/ApiEjercicios.png" target="_blank"> <img src="/public/images/ApiEjercicios.png"/></a>
 
 
 
