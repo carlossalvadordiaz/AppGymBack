@@ -17,9 +17,9 @@
 
 | database  | MVC-Node/Express  |
 |:-:|:-:|
-|  <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="250" height="200"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png" width="250" height="200"/></a>  |
+|  <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/modeloCodigoNode.png" width="400" height="350"/></a>  |
 | Angular-CRUD  | routes-request  |
-| <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="250" height="200"/></a>  | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a>  | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/peticiones-rutas.png" width="400" height="350"/></a>  |
 
 
 
