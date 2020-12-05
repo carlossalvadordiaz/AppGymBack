@@ -18,7 +18,7 @@
 
 | database  | Angular-CRUD  |
 |:-:|:-:|
-|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/listaClientesAngular.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a></a>
+|  <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/baseDatosPhpMyAdmin.png" target="_blank"> <img src="/public/images/baseDatosPhpMyAdmin.png" width="400" height="350"/></a> | <a href="https://github.com/carlossalvadordiaz/AppGymBack/blob/master/public/images/listaClientesAngular.png" target="_blank"> <img src="/public/images/listaClientesAngular.png" width="400" height="350"/></a>
 
 ### Code examples
 
